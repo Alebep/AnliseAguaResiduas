@@ -1,4 +1,4 @@
 # Analise dos dados da qualidade dos serviços de águas e resíduos
 
 No presente trabalho vamos analisar, preparar e estruturar as features e target variables para o treino de modelos de mineração de dados, utilizando tecnicas para seleção de Hiper parâmetros, e procedimentos para treino e validação de modelos preditivos de Machine Learning, num dataset constituído originalmente por 12 features, a maior parte delas numéricas, representam métricas sobre o consumo de água e recolha de resíduos por designação administrativa.
-[Link do dataset Utilizado](https://github.com/Alebep/)
+[Link do dataset Utilizado](https://l.facebook.com/l.php?u=https%3A%2F%2Fdados.gov.pt%2Fs%2FdadosGovFiles%2FDadosdaqualidadedosservicosdeaguaseresiduo.xlsx%3Ffbclid%3DIwAR2uwiA23H4gcEZMvT_BlaVGY-igCDjj3tjgd-qnY13wScAiJgcX6jvaIsA&h=AT1ne-8sWVp5ZIylPaaNUNDVIPJvFDTfg3CZLm2uxthM_Pih-uV3r0GSJeWQ1CReO0es5_VEdnMAtFx767DTUGj5UXsuosWmQjqadv_EkL1I-M1vyVWbpNssg4w2hWx0Oq8)
